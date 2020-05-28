@@ -1,0 +1,14 @@
+{
+    "protocol": "https:",
+    "slashes": true,
+    "auth": null,
+    "host": "stackabuse.com",
+    "port": null,
+    "hostname": "BuscarCurso.com",
+    "hash": null,
+    "search": "?titulo=' '"
+    "'query": "titulo ",
+    "pathname": "/",
+    "path": "/?titulo=''",
+    "href": "https://BuscarCurso.com/?titulo=' '"
+}
